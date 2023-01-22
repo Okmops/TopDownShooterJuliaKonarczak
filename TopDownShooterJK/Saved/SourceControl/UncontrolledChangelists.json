@@ -8,7 +8,11 @@
 				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Blueprints/Pawns/BP_Soldier_01.uasset",
 				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Blueprints/GameManager/BP_TopDownShooterGameMode_01.uasset",
 				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Levels/Main.umap",
-				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Materials/MI_MarineSoldier.uasset"
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Materials/MI_MarineSoldier.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AnimationBP_Marine.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AB_Marine.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AB_Marine01.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/BS_Marine01.uasset"
 			]
 		}
 	]
